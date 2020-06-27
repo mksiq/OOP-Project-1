@@ -31,16 +31,16 @@ All files that you submit (`*.h` and `*.cpp`) should contain the following comme
 ```
 
 **Milestone #3** can have an extension until August 12 2020, with a penalty of 10% for each day that the submission is late. After August 12 2020, the submission process is considered closed.
-- submissions received on Aug 03 2019 can receive **max 90%**;
-- submissions received on Aug 04 2019 can receive **max 80%**;
-- submissions received on Aug 05 2019 can receive **max 70%**;
-- submissions received on Aug 06 2019 can receive **max 60%**;
-- submissions received on Aug 07 2019 can receive **max 50%**;
-- submissions received on Aug 08 2019 can receive **max 40%**;
-- submissions received on Aug 09 2019 can receive **max 30%**;
-- submissions received on Aug 10 2019 can receive **max 20%**;
-- submissions received on Aug 11 2019 can receive **max 10%**;
-- submissions received on Aug 12 2019 can receive **max  0%**;
+- submissions received on Aug 03 2020 can receive **max 90%**;
+- submissions received on Aug 04 2020 can receive **max 80%**;
+- submissions received on Aug 05 2020 can receive **max 70%**;
+- submissions received on Aug 06 2020 can receive **max 60%**;
+- submissions received on Aug 07 2020 can receive **max 50%**;
+- submissions received on Aug 08 2020 can receive **max 40%**;
+- submissions received on Aug 09 2020 can receive **max 30%**;
+- submissions received on Aug 10 2020 can receive **max 20%**;
+- submissions received on Aug 11 2020 can receive **max 10%**;
+- submissions received on Aug 12 2020 can receive **max  0%**;
 
 
 **The project is mandatory!** Students that don't submit a complete working project, cannot pass this course. A project is considered complete if all three milestones have been submitted by the deadline and the implementation follows the requirements.
