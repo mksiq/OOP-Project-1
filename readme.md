@@ -14,9 +14,9 @@ The deadlines for the project's milestones are on Sunday at midnight (see the sc
 
 | Milestone |   Date |
 |-----------|--------|
-| #1        | Mar 22 |
-| #2        | Mar 29 |
-| #3        | Apr 05 |
+| #1        | Jul 26 |
+| #2        | Aug 02 |
+| #3        | Aug 09 |
 
 
 All files that you submit (`*.h` and `*.cpp`) should contain the following comment at the top (with your information filled):
