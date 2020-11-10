@@ -10,7 +10,7 @@ The project is broken down into 3 milestones to help guide you through the proce
 
 ## Project Deadlines
 
-The deadlines for the project's milestones are on Sunday at midnight (see the schedule below).
+The deadlines for the project's milestones are on Saturday at midnight (see the schedule below).
 
 | Milestone |   Date |
 |-----------|--------|
