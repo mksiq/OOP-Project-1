@@ -115,7 +115,7 @@ Each `Station` holds the following information:
     - quantity in stock
     - description
   - the delimiter of the tokens is a single character, specified by the client and stored into the `Utilities` object.
-  - once the constructor has extracted *name*, *starting serial number*, and *quantity* from the record, it updates `Station::m_widthField` to the maximum value of `Station::m_widthField` and `Utilities::m_widthField`.
+  - once the constructor has extracted *name*, *starting serial number*, and *quantity* from the record and before extracting *description*, it updates `Station::m_widthField` to the maximum value of `Station::m_widthField` and `Utilities::m_widthField`.
   - **Note:**  the `display(...)` member function uses this field width to align the output across all of the records retrieved from the file.
 
 -  `const std::string& getItemName() const` - returns the name of the current `Station` object
